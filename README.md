@@ -29,7 +29,7 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
