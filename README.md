@@ -26,7 +26,7 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<!--<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />-->
 <br />
 
 #
@@ -34,7 +34,8 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://github.com/Justin-sketch/Gym-Management-System-Java-GUI-Application-">
+  <img width="300px" src="https://github.com/user-attachments/assets/28cee265-2a13-4655-a691-9ff8c4e09044"/></a>
 <!-- END YOUTUBE-CARDS -->
 
 
@@ -44,7 +45,7 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Justin-sketch&theme=gruvbox&border_radius=4.5)
+<img ![GitHub Streak](https://streak-stats.demolab.com?user=Justin-sketch&theme=gruvbox&border_radius=4.5)/>
 
 #
 <!--
