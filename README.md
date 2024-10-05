@@ -34,8 +34,11 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<p>
 <a href="https://github.com/Justin-sketch/Gym-Management-System-Java-GUI-Application-/tree/Gym-management-system">
   <img width="300px" src="https://github.com/user-attachments/assets/28cee265-2a13-4655-a691-9ff8c4e09044"/></a>
+</p>
+  Gym Management System
 <!-- END YOUTUBE-CARDS -->
 
 
