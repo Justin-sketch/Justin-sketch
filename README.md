@@ -48,7 +48,7 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
 
 
 
-<img![GitHub Streak](https://streak-stats.demolab.com?user=Justin-sketch&theme=gruvbox&border_radius=4.5)/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Justin-sketch&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
