@@ -13,9 +13,9 @@ As a passionate digital craftsman, I specialize in blending creativity with tech
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Justin-sketch?color=236ad3&label=Follow&logo=github&style=for-the-badge"/>
 </a>
 
-      <a href="https://github.com/Justin-Sketch?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Justin-sketch?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  <a href="https://github.com/Justin-Sketch?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Justin-Sketch?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
 ---
 
